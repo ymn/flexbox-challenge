@@ -28,6 +28,7 @@ of the technologies and concepts (Flexbox, BEM Concept).
 We have picked two videos which will help you to understand these two concepts.
 
 **[Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc)**
+
 **[Introduction to BEM](https://www.youtube.com/watch?v=IO-4Z32O--c)**
 
 ## Implementing
